@@ -21,6 +21,16 @@
               "strict_min_version": "142.0"
             }
           }
+        },
+        {
+          "version": "0.1.3",
+          "update_link": "https://github.com/Rjwolfe44/jd-catcher-updates/releases/download/v0.1.3/jd-catcher-0.1.3.xpi",
+          "update_hash": "sha256:0a6dde6459bec01101bbf1ec2c41bffa7b0f89433d24133487bdd4035390e0fa",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
         }
       ]
     }
