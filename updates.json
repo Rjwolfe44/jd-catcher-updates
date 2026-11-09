@@ -1,7 +1,18 @@
 {
   "addons": {
     "jd-catcher@dumberapps": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.1.1",
+          "update_link": "https://github.com/Rjwolfe44/jd-catcher-updates/releases/download/v0.1.1/jd-catcher-0.1.1.xpi",
+          "update_hash": "sha256:b45d47953a06a710a0f7d4bd30ef195ba1a3ec1b0b562ee91fcd419e45278897",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
